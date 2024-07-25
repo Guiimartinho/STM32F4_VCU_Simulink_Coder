@@ -1,0 +1,10 @@
+config load "C:\Users\llgui\Documents\1.Personal_Projects\23.VCU_V8_STM32F4\vcu_v8_simulink\vcu_v8_simulink.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "D:\STMCubeRep\STM32Cube_FW_F4_V1.26.2"
+
+project generate 
+
+exit wait

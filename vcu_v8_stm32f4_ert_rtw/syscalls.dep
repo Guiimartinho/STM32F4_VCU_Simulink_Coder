@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/Users/llgui/Documents/1.Personal_Projects/23.VCU_V8_STM32F4/vcu_v8_simulink/STM32CubeIDE/Application/User/Core/syscalls.c
